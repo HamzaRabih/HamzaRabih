@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Hamza Rabih
-
- Full Stack Developer 👨‍💻
+👋 Hi, I’m Hamza Rabih
+Full Stack Developer 👨‍💻
